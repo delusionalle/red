@@ -1,0 +1,3 @@
+red - rust editor
+
+very simple cli text editor made in rust, modeled after kilo, the <1K LoC editor in C
